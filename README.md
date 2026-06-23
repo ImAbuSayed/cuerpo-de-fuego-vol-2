@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-fuego-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cuerpo de fuego, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-fuego-vol-2/) |
+| **Get License** | [Commercial Licensing for Cuerpo de fuego, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-fuego-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f7b6ff895660bddc2adca4344e4d11878382633f042849fd8aa7395357d1f1e1` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
